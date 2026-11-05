@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-social-graph-nuxt",
+  "capabilityKey": "liberusoftware/module-social-network-social-graph",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-social-network-social-graph-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/social-network/nextjs/social-graph.md",
+  "presentationPlan": "projects/social-network/nuxt/social-graph.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
